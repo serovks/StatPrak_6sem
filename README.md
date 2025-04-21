@@ -1,2 +1,2 @@
 # StatPrak_6sem
-Задания по статистическому практикуму (мехмат)
+Homeworks for statistical practice (MSU)
